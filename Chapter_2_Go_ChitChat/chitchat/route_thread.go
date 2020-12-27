@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/sausheong/gwp/Chapter_2_Go_ChitChat/chitchat/data"
+
 	"net/http"
+
+	"gitlab.com/gwp/Chapter_2_Go_ChitChat/chitchat/data"
 )
 
 // GET /threads/new
